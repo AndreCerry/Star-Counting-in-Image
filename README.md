@@ -1,20 +1,18 @@
-# Projeto 2 -  Metodologia de detecção de estrelas através de picos de luminosidade
+# Project 2 - Methodology for Star Detection through Luminosity Peaks
 
-## Sobre
+## About
 
-Este projeto consiste em testar a possibilidade de detectar o número aproximado de
-estrelas na imagem através dos picos de luminosidade produzidos pelas estrelas em
-relação ao fluxo do fundo do céu.
+This project aims to test the possibility of detecting the approximate number of stars in an image by identifying the luminosity peaks produced by the stars in relation to the sky background flux.
 
-## Bibliotecas utilizadas
+## Libraries Used
 
 - scipy: 1.11.3
 - numpy: 1.23.5
 - pylab: 3.7.1
 - astropy: 5.3.4
 
-## Como rodar?
+## How to Run?
 
-Basta carregar os arquivos Projeto_2.ipynb e Image_2.fits no google colab ou jupyter notebook e clicar em "Executar tudo".
+Simply upload the files Projeto_2.ipynb and Image_2.fits to Google Colab or Jupyter Notebook and click on "Run All."
 
-Obs: para uma execução adequada é necessário estar com o Python 3.x instalado no ambiente.
+Note: To ensure proper execution, Python 3.x must be installed in the environment.
